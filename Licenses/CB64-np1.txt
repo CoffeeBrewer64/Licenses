@@ -1,7 +1,0 @@
-Copyright (c) CoffeeBrewer64 2023
-
-=== CB64 - NO PORT 1 ===
-
-Section 1, Definitions.
-
-You refers to you, in any state. It excludes CoffeeBrewer64.
